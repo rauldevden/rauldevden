@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rauldevden
 - 👀 I’m interested in web programming
-- 🌱 I’m currently learning JS and PHP frameworks such as VUEJS and SYMFONY
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JS and PHP frameworks such as ANGULAR and TYPESCRIPT
 - 📫 How to reach me -> raul.devden@gmail.com
 
 <!---
